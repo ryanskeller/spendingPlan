@@ -8,6 +8,6 @@ public class HomePageController {
 	
 	@RequestMapping("/")
     String home() {
-        return "Futrue Home of : Keller Spending Plan Application";
+        return "Future Home of : Keller Spending Plan Application";
     }
 }
